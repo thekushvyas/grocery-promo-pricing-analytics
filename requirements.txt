@@ -1,0 +1,7 @@
+completejourney_py
+duckdb
+pandas
+numpy
+statsmodels
+matplotlib
+jupyter
